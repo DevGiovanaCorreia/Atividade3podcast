@@ -1,0 +1,35 @@
+# Java
+*.class
+
+# Maven
+/target/
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# NetBeans
+/nbproject/private/
+/build/
+/dist/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+
+# IntelliJ
+/.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de ambiente
+.env
